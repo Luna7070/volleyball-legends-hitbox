@@ -12,4 +12,8 @@ Streamproof hitbox for Volleyball Legends. Matcha executor.
 
 Execute `v3.0.lua`, open the menu, tab **VBL**.
 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Luna7070/volleyball-legends-hitbox/refs/heads/main/v3.0.lua"))()
+```
+
 by Luna - v3.0
